@@ -1,0 +1,820 @@
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headerb .wrapper
+{
+	width:80%;
+	margin:auto;
+} 
+.banner .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo  .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.about .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.paritur .wrapper
+{ 
+	width:80%;
+	margin:auto;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.calltoaction .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+width:80%;
+	margin:auto;
+}
+.team .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pricing .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.questions .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.questionsa .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.questionsb .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.newsletter .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.detail .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera
+{
+	background-color:grey;
+	height:62px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:start;
+}
+.headera .headera-fc .boxa
+{
+	background-color:white;
+	height:40px;
+	width:10%;
+	margin-left:100px;
+	margin-top:10px;
+}
+.headera .headera-fc .boxb
+{
+	background-color:white;
+	height:40px;
+	width:10%;
+	margin-left:30px;
+	margin-top:10px;
+}
+.headera .headera-fc .boxc
+{
+	background-color:white;
+	height:40px;
+	width:20%;
+	margin-left:550px;
+	margin-top:10px;
+}
+.headerb
+{
+	background-color:lightblue;
+	height:92px;
+}
+.headerb .headerb-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.headerb .headerb-fc .boxa
+{
+	background-color:plum;
+	height:50px;
+	width:13%;
+	margin-top:13px;	
+}
+.headerb .headerb-fc .boxb
+{
+	background-color:plum;
+	height:50px;
+	width:60%;
+	margin-top:13px;
+}
+.banner 
+{
+	background-color:steelblue;
+	height:723px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	justify-content:space-evenly;
+}
+.banner .banner-fc .name
+{
+	background-color:white;
+	height:412px;
+	width:40%;
+	margin-top:100px;
+}
+.banner .banner-fc .boxa
+{
+	background-color:plum;
+	height:412px;
+	width:40%;
+	margin-top:100px;
+}
+.logo
+{
+	background-color:grey;
+	height:109px;
+}
+.logo .logo-fc
+{
+	display:flex;
+	justify-content:space-between;
+	text-align:center;
+}
+.logo .logo-fc .logoa
+{
+	background-color:deeppink;
+	height:275px;
+	width:22%;
+}
+.logo .logo-fc .logob
+{
+	height:275px;
+	width:22%;
+	background-color:aqua;
+}
+.logo .logo-fc .logoc
+{
+	height:275px;
+	width:22%;
+	background-color:deeppink;
+}
+.logo .logo-fc .logod
+{
+	height:275px;
+	width:22%;
+	background-color:aqua;
+}
+.about
+{
+	background-color:deepskyblue;
+	height:1075px;
+	margin-top:191px;
+}
+.about .about-fc  
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+
+.about .about-fc .boxa 
+{
+	background-color:blueviolet;
+	height:411px;
+	width:48%;
+	margin-top:150px;
+}
+.about .about-fc .texta
+{
+	background-color:deeppink;
+	height:330px;
+	width:48%;
+	margin-top:150px;
+}
+.about .about-fc .textb
+{
+	background-color:deeppink;
+	height:330px;
+	width:48%;
+	margin-top:30px;
+}
+.about .about-fc .boxb
+{
+	background-color:blueviolet;
+	height:411px;
+	width:48%;
+	margin-top:30px;
+}
+.company 
+{
+	background-color:deeppink;
+	height:107px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc .logoa
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .logob
+{
+	background-color:blue;
+	height:68px;
+	width:18%;
+	margin-top:20px
+}
+.company .company-fc .logoc
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px
+}
+.company .company-fc .logod
+{
+	background-color:blue;
+	height:68px;
+	width:18%;
+	margin-top:20px
+}
+.company .company-fc .logoe
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px
+}
+.client
+{
+	background-color:silver;
+	height:442px;
+}
+.client .client-fc
+{
+	display:flex;
+	flex-direction:row;
+	text-align:center;
+	justify-content:space-evenly;
+} 
+.client .client-fc .boxa
+{
+	background-color:white;
+	width:46%;
+	height:314px;
+	margin-top:40px;
+}
+.client .client-fc .texta
+{
+	background-color:blue;
+    margin-top:40px;
+	width:46%;
+	height:314px;
+}   
+.calltoaction 
+{
+	background-color:deeppink;
+	height:300px;
+}
+.calltoaction .calltoaction-fc 
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	align-items:center;
+}
+.calltoaction .calltoaction-fc .texta
+{
+	text-align:center;
+	margin-top:100px;
+}
+.calltoaction .calltoaction-fc .boxa
+{
+	background-color:white;
+	height:56px;
+	width:13%;
+	margin-top:80px;
+}    
+.service
+{
+	background-color:deepskyblue;
+	height:1048px;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.service .service-fc .title
+{
+	text-align:center;
+	margin-top:80px;
+	width:100%
+}
+.service .service-fc .boxa 
+{
+	background-color:white;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.service .service-fc .boxb
+{
+	background-color:deeppink;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.service .service-fc .boxc
+{
+	background-color:white;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.service .service-fc .boxd
+{
+	background-color:deeppink;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.service .service-fc .boxe
+{
+	background-color:white;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.service .service-fc .boxf
+{
+	background-color:deeppink;
+	height:370px;
+	width:30%;
+	margin-top:60px;
+}
+.Testimonials
+{
+		background-color:aqua;
+		height:707px;
+}
+.Testimonials .Testimonials-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.Testimonials .Testimonials-fc .title
+{
+	text-align:center;
+	margin-top:140px;
+	width:100%
+}
+.Testimonials .Testimonials-fc .boxa 
+{
+	background-color:deeppink;
+	height:324px;
+	width:30%;
+	margin-top:60px;
+}
+.Testimonials .Testimonials-fc .boxb
+{
+	background-color:white;
+	height:324px;
+	width:30%;
+	margin-top:60px;
+}
+.Testimonials .Testimonials-fc .boxc
+{
+	background-color:deeppink;
+	height:324px;
+	width:30%;
+	margin-top:60px;
+}
+.portfolio
+{
+	background-color:hotpink;
+	height:1876px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .texta
+{
+	text-align:center;
+	width:100%;
+	margin-top:50px;
+}
+.portfolio .portfolio-fc .boxa
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:80px;
+}
+.portfolio .portfolio-fc .boxb
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:80px;
+}
+.portfolio .portfolio-fc .boxc
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:80px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxe
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxg
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxh
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxi
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxj
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxk
+{
+	background-color:blue;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .boxl
+{
+	background-color:white;
+	height:374px;
+	width:31%;
+	margin-top:30px;
+}
+.team
+{
+	background-color:lightskyblue;
+	height:674px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.team .team-fc .texta
+{
+	text-align:center;
+	width:100%;
+	margin-top:70px;
+}
+.team .team-fc .boxa
+{
+	background-color:white;
+	height:390px;
+	width:20%;
+	margin-top:60px;
+}
+.team .team-fc .boxb
+{
+	background-color:deeppink;
+	height:390px;
+	width:20%;
+	margin-top:60px;
+}
+.team .team-fc .boxc
+{
+	background-color:white;
+	height:390px;
+	width:20%;
+	margin-top:60px;
+}
+.team .team-fc .boxd
+{
+	background-color:deeppink;
+	height:390px;
+	width:20%;
+	margin-top:60px;
+}
+.pricing 
+{
+	background-color:hotpink;
+	height:1055px;
+}
+.pricing  .pricing-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+	text-align:center;
+	
+}
+.pricing  .pricing-fc .title
+{
+	text-align:center;
+	width:100%;
+	margin-top:60px;
+}
+.pricing  .pricing-fc .boxa
+{
+	background:blueviolet;
+	height:650px;
+	width:31%;
+	margin-top:150px;
+	
+}
+.pricing  .pricing-fc .boxa .boxaa
+{
+	background-color:white;
+	width:20%;
+	height:47px;
+	margin-top:150%;
+	margin-left:140px;
+}
+.pricing  .pricing-fc .boxb
+{
+	background:purple;
+	height:780px;
+	width:31%;
+	margin-top:80px;
+}
+.pricing  .pricing-fc .boxb .boxbb
+{
+	background-color:white;
+	width:20%;
+	height:47px;
+	margin-top:190%;
+	margin-left:140px;
+}
+.pricing  .pricing-fc .boxc
+{
+	background:blueviolet;
+	height:650px;
+	width:31%;
+	margin-top:150px;
+}
+.pricing  .pricing-fc .boxc .boxcc
+{
+	background-color:white;
+	width:20%;
+	height:47px;
+	margin-top:150%;
+	margin-left:140px;
+}
+
+.questions
+{
+	background-color:deepskyblue;
+	height:700px;
+}
+.questions .questionsa-fc
+{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.questions .questiona-fc .boxa
+{
+	text-align:center;
+	width:100%;
+	margin-top:100px;
+}
+.questions .questionsb-fc
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	align-items:center;
+}
+.questions .questionsb-fc .boxb
+{
+	background:white;
+	height:52px;
+	width:50%;
+	margin-top:100px;
+}
+.questions .questionsb-fc .boxc
+{
+	background:blueviolet;
+	height:90px;
+	width:50%;
+	margin-top:30px;
+}
+.questions .questionsb-fc .boxd
+{
+	background:white;
+	height:90px;
+	width:50%;
+	margin-top:30px;
+}
+.questions .questionsb-fc .boxe
+{
+	background:blueviolet;
+	height:66px;
+	width:50%;
+	margin-top:30px;
+}
+.questions .questionsb-fc .boxf
+{
+	background:white;
+	height:90px;
+	width:50%;
+	margin-top:30px;
+}
+.contact
+{
+	background-color:deeppink;
+	height:790px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.contact .contact-fc .texts
+{
+	text-align:center;
+	width:100%;
+	margin-top:50px;
+}
+.contact .contact-fc .cboxa
+{
+	width:35%;
+	height:480px;
+	margin-top:80px;
+	background-color:blueviolet;
+}
+.contact .contact-fc .cboxb
+{
+	background-color:blueviolet;
+	height:480px;
+	width:35%;
+	margin-top:80px;
+}
+.detail 
+{
+	background-color:lightskyblue;
+	height:287px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.detail .detail-fc .deta
+{
+	background-color:white;
+	height:210px;
+	width:30%;
+	margin-top:20px;
+}
+.detail .detail-fc .detb
+{
+	background-color:blueviolet;
+	height:210px;
+	width:15%;
+	margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+	background-color:white;
+	height:210px;
+	width:15%;
+	margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:blueviolet;
+	height:210px;
+	width:16%;
+	margin-top:20px;
+}
+.copyright
+{
+	background-color :gray;
+	height:153px;
+}
+.copyright .copyright-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.copyright .copyright-fc .copyrighta
+{
+	background-color:deeppink;
+	width:20%;
+	height:35px;
+	margin-top:60px;
+}
